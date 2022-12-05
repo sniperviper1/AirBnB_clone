@@ -1,1 +1,1 @@
-This is my first AirBnB clone task..
+# Solution to tasks on AirBnB CLone Webstatic
